@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Chocolate Cafe</string>
+    <string name="chocolatecake">Chocolate Cake</string>
+    <string name="chocolatemouse">Chocolate Mousse</string>
+    <string name="chocolatemacaroon">Chocolate Macaroon</string>
+    <string name="cakeimage">Cake Image</string>
+    <string name="mouseimage">Mouse Image</string>
+    <string name="macaroonimage">Macaroon Image</string>
+    <string name="websitelink">Cafe Web Page</string>
+    <string name="title_activity_mouse">Chocolate Mousse</string>
+    <string name="title_activity_cake">Chocolate Cake</string>
+    <string name="title_activity_macaroon">Chocolate Macaroon</string>
+
+
+</resources>
